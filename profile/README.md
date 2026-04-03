@@ -1,1 +1,3 @@
 # Hasegawa Laboratory
+
+The Information Sharing Platform Laboratory at the Graduate School of Information Science and Technology, the University of Osaka, conducts research on innovative and practical network technologies with the goal of advancing the Internet. Specifically, we focus on the development of data center networks for large-scale AI model training, technologies for enabling secure and high-speed distributed machine learning, and security-related techniques such as cyberattack detection and privacy-preserving anonymous communication. In addition, to realize these technologies within the network infrastructure, we actively explores programming techniques for high-performance network hardware.
